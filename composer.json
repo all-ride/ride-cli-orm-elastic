@@ -2,7 +2,7 @@
     "name": "ride/cli-orm-elastic",
     "description": "ORM Elastic commands for the Ride CLI",
     "license": "MIT",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "authors": [
         {
             "name": "Joris Vandeweerd",
