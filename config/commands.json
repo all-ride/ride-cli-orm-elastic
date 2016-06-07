@@ -1,0 +1,14 @@
+{
+    "commands": [
+        {
+            "name": "orm elastic define",
+            "aliases": "oed",
+            "class": "ride\\cli\\command\\orm\\OrmElasticDefineCommand"
+        },
+        {
+            "name": "orm elastic index",
+            "aliases": "oei",
+            "class": "ride\\cli\\command\\orm\\OrmElasticIndexCommand"
+        }
+    ]
+}
